@@ -1,0 +1,2 @@
+Plugins/* filter=lfs diff=lfs merge=lfs -text
+Plugins/* filter=lfs diff=lfs merge=lfs -text
